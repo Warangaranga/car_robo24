@@ -1,5 +1,7 @@
 from time import sleep_ms
 
+#Directed by stillz.
+
 #frente
 
 #reversa
